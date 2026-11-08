@@ -8,3 +8,5 @@ Check the R Markdown and PDF for the complete document. The R script contains R 
 Worksheet 4 and 5.Rmd/pdf/R contain code that implements a function for generating multivariate normal samples, compares several whitening methods using simulated data, and applies principal component analysis (PCA) to the iris dataset to examine explained variance and visualise the results.
 
 MS&ML Revisionmd.Rmd/pdf/R contain code that derives properties of multivariate normal distributions, simulate high-dimensional data, and compare ZCA, PCA, correlation-based, and Cholesky whitening methods using covariance, cross-covariance, cross-correlation, and variance proportions.
+
+GLM Revision.Rmd, GLM Revision.pdf, and GLM Revision.R contain examples that explore linear and generalized linear models, including model matrices, categorical predictors, and regression diagnostics. They fit Gaussian, Gamma, Poisson, and binomial models; implement iterative reweighted least squares; and use simulated data to examine coefficient estimates, confidence intervals, hypothesis tests, and model comparisons.
